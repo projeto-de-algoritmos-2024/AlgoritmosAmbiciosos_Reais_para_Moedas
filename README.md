@@ -9,22 +9,17 @@
 | 20/0044559  |  Wesley Lira Carvalho |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo desse trabalho é demonstrar o uso do algoritmo das Moedas visto em sala de aula, aonde se trata de um algoritmo ambicioso.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Foto Principal](./assets/screenshot_principal.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: HTML, Javascript e CSS<br>
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Ao subir o projeto, acesse a url **localhost:5500** e adicione a quantidade em Reais para obter o resultado de quantas moedas são necessárias.
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
