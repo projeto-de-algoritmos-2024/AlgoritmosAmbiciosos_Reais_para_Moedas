@@ -19,7 +19,16 @@ O objetivo desse trabalho é demonstrar o uso do algoritmo das Moedas visto em s
 
 
 ## Uso 
-Ao subir o projeto, acesse a url **localhost:5500** e adicione a quantidade em Reais para obter o resultado de quantas moedas são necessárias.
+
+Com o projeto aberto, acesse o terminal e vá até onde o projeto está salvo. Após isso, digite o seguinte comando:
+
+```
+npm install -g http-server
+```
+
+O comando acima permite que possa subir localmente o projeto em sua máquina. Após ter instalado o http-server, no mesmo terminal e na raiz do projeto insira o seguinte comando: **http-server**. Uma outra forma de subir localmente o projeto é instalando a extensão **Live Server** caso esteja pelo Visual Studio Code.
+
+Ao subir o projeto, acesse a url do projeto e adicione a quantidade em Reais para obter o resultado de quantas moedas são necessárias.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+- [Link da Apresentação](https://www.youtube.com/watch?v=FHHuIT2mGN0)

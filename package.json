@@ -1,0 +1,12 @@
+{
+  "name": "algoritmosambiciosos_reais_para_moedas",
+  "version": "1.0.0",
+  "description": "**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
